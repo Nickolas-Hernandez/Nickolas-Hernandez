@@ -44,7 +44,7 @@ GitHub Repo: https://github.com/Nickolas-Hernandez/App-Chat
 Live Site: https://nickolas-hernandez.github.io/Stock-watcher/ <br>
 GitHub Repo: https://github.com/Nickolas-Hernandez/Stock-watcher 
 
-# Contact me :wave:
+# Contact Me :wave:
 
 Email: xnickhernandez@gmail.com <br>
 Linkedin: www.linkedin.com/in/nickolashernandez\ <br>
