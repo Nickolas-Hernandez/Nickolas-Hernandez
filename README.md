@@ -28,10 +28,9 @@ If you would like to reach to me to discuss how I can help in the development of
 ### App Chat :calling:
 #### A dynamic application for user who want to chat via the internet!
 
-![Animated GIF-downsized_large (2)](https://user-images.githubusercontent.com/75342275/115939997-e4564800-a454-11eb-89e1-72ddf72d1cfe.gif)
+![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/75342275/116324936-e599b480-a775-11eb-8964-aa56c404aa4b.gif)
 
-![Animated GIF-downsized_large (3)](https://user-images.githubusercontent.com/75342275/115940003-e6b8a200-a454-11eb-8f56-9ce23d6dd4df.gif)
-
+![Animated GIF-downsized_large (5)](https://user-images.githubusercontent.com/75342275/116324939-e7fc0e80-a775-11eb-9e99-a86ee1cda9f9.gif)
 
 
 Live Site: https://chat-room-platform.herokuapp.com/ <br>
