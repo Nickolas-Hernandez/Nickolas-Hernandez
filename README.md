@@ -48,7 +48,8 @@ GitHub Repo: https://github.com/Nickolas-Hernandez/Stock-watcher
 
 Email: xnickhernandez@gmail.com <br>
 Linkedin: www.linkedin.com/in/nickolashernandez\ <br>
-Resume: [Nickolas_Hernandez_Resume_V9.pdf](https://github.com/Nickolas-Hernandez/Nickolas-Hernandez/files/6354107/Nickolas_Hernandez_Resume_V9.pdf)
+Resume: [Nickolas_Hernandez_Resume_V11.pdf](https://github.com/Nickolas-Hernandez/Nickolas-Hernandez/files/6388318/Nickolas_Hernandez_Resume_V11.pdf)
+
 
 
 
