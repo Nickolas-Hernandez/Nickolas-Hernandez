@@ -28,8 +28,6 @@ If you would like to reach to me to discuss how I can help in the development of
 ### App Chat :calling:
 #### A dynamic application for user who want to chat via the internet!
 
-![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/75342275/116324936-e599b480-a775-11eb-8964-aa56c404aa4b.gif)
-
 ![Animated GIF-downsized_large (5)](https://user-images.githubusercontent.com/75342275/116324939-e7fc0e80-a775-11eb-9e99-a86ee1cda9f9.gif)
 
 
