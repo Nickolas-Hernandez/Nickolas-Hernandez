@@ -14,7 +14,7 @@ In my search, I stumbled across LearningFuze Full Immersion bootcamp and after r
 
 During my time at LearningFuze, I spent over 800 hours (70 hours per week) learning web devevlopment under the guidance of senior developers.
 
-Today I am proud to call my self a fullstack developer and I look forward to expanding my knowledge and building real world applications that intend to push the capabalities, and challenge the limits of our modern day society. 
+Today I am proud to call my self a fullstack software developer and I look forward to expanding my knowledge and building real world applications that intend to push the capabalities, and challenge the limits of our modern day society. 
 
 If you would like to reach to me to discuss how I can help in the development of your project, please see my contact information below. <br> 
 <br>
