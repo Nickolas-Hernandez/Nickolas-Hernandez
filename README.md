@@ -24,24 +24,6 @@ If you would like to reach to me to discuss how I can help in the development of
 #### Languages and Tools:
 <img  alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img  alt="JavaScript (ES5/ES6)" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="Node.js" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img  alt="Express" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> <img  alt="SQL" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <img  alt="PostgreSQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> <img alt="HTML 5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img  alt="CSS 3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
 
-# Applications :iphone:
-### App Chat :calling:
-#### A dynamic application for user who want to chat via the internet!
-
-![Animated GIF-downsized_large (5)](https://user-images.githubusercontent.com/75342275/116324939-e7fc0e80-a775-11eb-9e99-a86ee1cda9f9.gif)
-
-
-Live Site: https://chat-room-platform.herokuapp.com/ <br>
-GitHub Repo: https://github.com/Nickolas-Hernandez/App-Chat
-
-### Stock Watcher :chart_with_upwards_trend:
-#### A dynamic web application for users who want to search and track stock prices.
-
-![Animated GIF-downsized_large (1)](https://user-images.githubusercontent.com/75342275/115623664-59d3e400-a2ae-11eb-8d0e-fd504e1449df.gif)
-
-Live Site: https://nickolas-hernandez.github.io/Stock-watcher/ <br>
-GitHub Repo: https://github.com/Nickolas-Hernandez/Stock-watcher 
-
 # Contact Me :wave:
 
 Email: xnickhernandez@gmail.com <br>
