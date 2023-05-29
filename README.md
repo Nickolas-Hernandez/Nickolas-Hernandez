@@ -13,7 +13,7 @@ Today, I am proud to hold the position of Web Developer at Big Rig Media, where 
 # Contact Me :wave:
 
 Email: contact@nickhernandez.dev <br>
-Portfolio: www.nickhernandez.dev
+Portfolio: www.nickhernandez.dev <br>
 Linkedin: www.linkedin.com/in/nickolashernandez\ <br>
 Resume: [Nickolas_Hernandez_Resume_V11.pdf](https://github.com/Nickolas-Hernandez/Nickolas-Hernandez/files/6388318/Nickolas_Hernandez_Resume_V11.pdf)
 
