@@ -1,28 +1,15 @@
 # About Me :rocket:
 
-My name is Nick and I am passionate about bringing exciting ideas to life through the means of code!
+After being inspired by the first SpaceX booster landing, I discovered my passion for technology and made the decision to pursue a career in the tech field in 2020. I delved into the subject of online business, web design, copywriting, marketing, and e-commerce, until I fell in love with the world of programming. I then took the leap and joined LearningFuze coding bootcamp, where I learned the fundamentals of web development.
 
-Since a child, I have always had a vivid imagination and amazing knack for problem solving; however, growing up I never had any exposure to programming or any other tech related subjects.
-
-It wasn't until my junior years of college that I had the wonderful oppurtunity of taking a computer science class that taught the basics of programming using C++. It was at this point I was finally exposed to the rich world of software devlopement and I was hooked.
-
-Shortly after taking this class I began reading books and making efforts to learn more about programming. Starting off with HTML and CSS I had the intention of kicking off my coding career by teaching myself web development. 
-
-As I began exploring the world of JavaScript, I found myself struggling to fully understand some of the core fundamentals of web development and began doing research in hopes of finding a mentor that could help guide me on this journey.
-
-In my search, I stumbled across LearningFuze Full Immersion bootcamp and after reading through an abundance of former student experiences with LearningFuze, I decided to take a leap and enroll myself in the program.
-
-During my time at LearningFuze, I spent over 800 hours (70 hours per week) learning web devevlopment under the guidance of senior developers.
-
-Today I am proud to call my self a fullstack software developer and I look forward to expanding my knowledge and building real world applications that intend to push the capabalities, and challenge the limits of our modern day society. 
-
-If you would like to reach to me to discuss how I can help in the development of your project, please see my contact information below. <br> 
+Today, I am proud to hold the position of Web Developer at Big Rig Media, where I work with a variety of technologies on a regular basis.
 <br>
 
 # Skills :technologist:
 
 #### Languages and Tools:
 <img  alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img  alt="JavaScript (ES5/ES6)" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="Node.js" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img  alt="Express" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> <img  alt="SQL" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <img  alt="PostgreSQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> <img alt="HTML 5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img  alt="CSS 3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+![new-php-logo](https://github.com/Nickolas-Hernandez/Nickolas-Hernandez/assets/75342275/30458d25-4e23-4af4-8709-b66006e0322c)
 
 # Contact Me :wave:
 
